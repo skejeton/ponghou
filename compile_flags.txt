@@ -1,0 +1,4 @@
+-xc
+-mwindows
+--target=i686-w64-mingw32
+-I/usr/i686-w64-mingw32/include

@@ -1,0 +1,6 @@
+[ ] Use raylib instead of winapi
+[ ] Make UI system more versatile
+[ ] Rewrite gameplay code
+[ ] Polish the game
+[ ] Add new classes
+
